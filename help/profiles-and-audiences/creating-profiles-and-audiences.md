@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,7 +24,7 @@ O Adobe Campaign tem dois tipos ou perfis:
 * Perfis identificados
 * Perfis de teste
 
-Os perfis agrupados de acordo com um ou vários critérios comuns são chamados **públicos**.
+Perfis agrupados de acordo com um ou vários critérios comuns são chamados de **públicos-alvo**.
 
 Este vídeo explica como navegar até perfis existentes e como criar perfis e públicos no Adobe Campaign Standard.
 

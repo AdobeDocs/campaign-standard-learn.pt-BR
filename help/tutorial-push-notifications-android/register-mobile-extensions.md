@@ -11,8 +11,8 @@ team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 13%
 
 Nesta parte, adicionamos o código para registrar as extensões Perfil do usuário, Identidade, Ciclo de vida e Sinal. Também devemos registrar a extensão do Adobe Campaign Standard como mostrado no código abaixo.
 
-Abra o projeto no [!DNL Android] estúdio. Excluir todo o código no MainApp **exceto a primeira linha que é a instrução do pacote**.
+Abra o projeto no [!DNL Android] studio. Exclua todo o código no MainApp **exceto a primeira linha que é a instrução do pacote**.
 
 Cole o código a seguir no MainApp
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Linha 32 você deve fornecer seu[!UICONTROL  Launch] ID do arquivo de ambiente da propriedade. Isso pode ser acessado no [!UICONTROL environment tab] do seu [!UICONTROL Launch] propriedade.
+Linha 32, você deve fornecer sua ID de arquivo de ambiente da Propriedade [!UICONTROL  Launch]. Isto pode ser acessado a partir do [!UICONTROL environment tab] da sua propriedade [!UICONTROL Launch].
 
-![launch-id](assets/launch-id-property.PNG)
+![id-inicialização](assets/launch-id-property.PNG)

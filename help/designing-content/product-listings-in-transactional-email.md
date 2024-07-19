@@ -12,8 +12,8 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 Você pode configurar um email de redirecionamento que tenha uma lista de produtos desconhecidos ao criar o email. Esses produtos podem ser adicionados da carga no tempo de execução. Por exemplo, você pode enviar um email de abandono de carrinho automaticamente listando todos os produtos, que estavam no carrinho do usuário antes de serem abandonados, com uma imagem, preço e link para cada produto.
 
-Os vídeos a seguir explicam as etapas necessárias para configurar o [!UICONTROL product listings] in [!UICONTROL transactional emails].
+Os vídeos a seguir explicam as etapas necessárias para configurar o [!UICONTROL product listings] no [!UICONTROL transactional emails].
 
 >[!NOTE]
 >

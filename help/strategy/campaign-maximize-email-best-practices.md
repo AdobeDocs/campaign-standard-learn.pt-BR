@@ -1,6 +1,6 @@
 ---
 title: Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante
-description: Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.
+description: Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.
 solution: Campaign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 3%
+source-wordcount: '1475'
+ht-degree: 0%
 
 ---
 
@@ -118,26 +118,26 @@ Para usuários obsoletos e inativos, considere consultar a data em que o usuári
 
 Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) o conteúdo criativo dos próprios emails. Veja a seguir cada uma dessas áreas com mais detalhes:
 
-**Atualizar os padrões e agendamentos de envio**
+**Atualizar seus padrões e agendamentos de envio**
 
-* **Iniciar lentamente** - É uma maratona, não um sprint. Não é uma solução que você pode implementar em um dia. Considere começar com uma pequena porcentagem do público-alvo, cerca de 4-5% e monitore cuidadosamente o desempenho.
+* **Comece devagar** - É uma maratona e não uma corrida. Não é uma solução que você pode implementar em um dia. Considere começar com uma pequena porcentagem do público-alvo, cerca de 4-5% e monitore cuidadosamente o desempenho.
 
-* **Considerar a reputação da marca** - Garantir que o tráfego de email para segmentos inativos não esteja causando problemas de reputação.
+* **Considere a reputação da marca** - Verifique se o tráfego de email para segmentos inativos não está causando problemas de reputação.
 
-* **Automatizar workflows** - Mantenha suas listas limpas e arrumadas.
+* **Fluxos de trabalho automatizados** - Mantenha suas listas limpas e arrumadas.
 
-* **Regras de pressão** - Impeça que os assinantes no programa de reengajamento recebam outros emails.
+* **Regras de Pressão** - Impeça que os assinantes no programa de reengajamento recebam outros emails.
 
 **Criação e conteúdo**
 
-* **Oferecer uma opção clara de aceitação/recusa** - Facilite para que os usuários decidam rapidamente se desejam receber notícias suas. Você pode ser recompensado com a opção de aceitação por atender primeiro às necessidades deles, em vez de se concentrar nas necessidades comerciais de envolvimento.
+* **Ofereça uma opção clara de ACEITAÇÃO/RECUSA** - Facilite para que os usuários decidam rapidamente se desejam receber sua opinião. Você pode ser recompensado com a opção de aceitação por atender primeiro às necessidades deles, em vez de se concentrar nas necessidades comerciais de envolvimento.
 
-* **Criar um Centro de preferências** - É uma chance de dar controle adicional aos assinantes, permitindo que eles selecionem entre diferentes conteúdos de email, como boletins informativos, ofertas promocionais, eventos e assim por diante, bem como diferentes regularidades. Lembre-se de que, se decidir oferecer isso, você pode acompanhar e segmentar corretamente o público-alvo para atender a essas preferências.
+* **Criar uma Central de Preferências** - É uma chance de dar controle adicional aos seus assinantes, permitindo que eles selecionem entre diferentes conteúdos de email, como boletins informativos, ofertas promocionais, eventos etc., além de diferentes regularidades. Lembre-se de que, se decidir oferecer isso, você pode acompanhar e segmentar corretamente o público-alvo para atender a essas preferências.
 
 * **Linhas de assunto fortes** - Destaque-se do conteúdo de outras marcas
 
-* **Testar e aprender** - um bom plano de testes é importante para garantir que seus esforços estejam tendo o efeito desejado. Saiba o que está funcionando e o que não está funcionando e iterar de acordo.
+* **Testar e aprender** - um bom plano de teste é importante para garantir que seus esforços estejam tendo o efeito desejado. Saiba o que está funcionando e o que não está funcionando e iterar de acordo.
 
 Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Saiba mais sobre estratégia e liderança de pensamento na [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 22%
+source-wordcount: '94'
+ht-degree: 30%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 22%
 >
 >Esse recurso está na versão beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
 Saiba como verificar o status de um trabalho de assimilação de dados e se os dados foram assimilados do Adobe Campaign Standard para o Adobe Experience Platform.
 

@@ -13,13 +13,13 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 26%
+ht-degree: 29%
 
 ---
 
 # Criar um perfil de teste {#creating-a-test-profile}
 
-Os perfis de teste permitem direcionar recipients adicionais que não correspondem aos critérios de direcionamento definidos. Eles são adicionados ao público de uma mensagem para detectar qualquer uso fraudulento do banco de dados do recipient ou para garantir que os emails cheguem às caixas de entrada.
+Os perfis de teste permitem direcionar destinatários adicionais que não correspondem aos critérios de direcionamento definidos. Eles são adicionados ao público de uma mensagem para detectar qualquer uso fraudulento do banco de dados do recipient ou para garantir que os emails cheguem às caixas de entrada.
 
 Este vídeo explica como criar perfis de teste
 

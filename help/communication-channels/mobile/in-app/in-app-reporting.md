@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# Relatar no seu [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Relatório sobre sua entrega [!UICONTROL In-App] {#in-app-message-reporting}
 
 Saiba como apresentar ao usuário mensagens no aplicativo contextualmente relevantes em resposta ao comportamento em tempo real de um cliente no aplicativo móvel.
 

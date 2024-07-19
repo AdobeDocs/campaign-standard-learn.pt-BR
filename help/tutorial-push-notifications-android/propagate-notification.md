@@ -11,7 +11,7 @@ team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 2%
 Nesta parte, propagaremos a mensagem recebida do Adobe Campaign usando [!DNL Android Notification Manager]. [!DNL Notification manager] é usado para notificar o usuário sobre eventos que ocorrem.
 É assim que você informa ao usuário que algo aconteceu em segundo plano:
 
-* Launch [!DNL Android Studio]
-* Abertura *[!DNL ACSPushTutorial]* projeto
+* Iniciar [!DNL Android Studio]
+* Abrir projeto *[!DNL ACSPushTutorial]*
 * Expandir a estrutura do projeto
 * Clique com o botão direito do mouse na pasta do pacote ([!DNL com.example.acspushtutorial]) e [!DNL New ->Java Class]
-* Nomear esta classe *[!DNL MyService]* e certifique-se de estender [!DNL FirebaseMessagingService]
-* Criar *[!DNL sendNotification]* nesta classe. Neste método, é necessário definir o conteúdo e o canal da notificação usando um [!DNL NotificationCompat.Builder] objeto. Para fazer com que a notificação apareça, chame [!DNL NotificationManagerCompat.notify()], transmitindo uma ID exclusiva para a notificação e o resultado de [!DNL NotificationCompat.Builder.build()].
+* Nomeie esta classe *[!DNL MyService]* e verifique se ela estende [!DNL FirebaseMessagingService]
+* Criar método *[!DNL sendNotification]* nesta classe. Neste método, é necessário definir o conteúdo e o canal da notificação usando um objeto [!DNL NotificationCompat.Builder]. Para fazer com que a notificação apareça, chame [!DNL NotificationManagerCompat.notify()], transmitindo uma ID exclusiva para a notificação e o resultado de [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -95,7 +95,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Modificar [!DNL AndroidManifest.xml]
 
-Adicione o serviço criado ao [!DNL AndroidManifest.xml]. A versão final [!DNL AndroidManifest.xml] deve ser semelhante a:
+Adicione o serviço que foi criado a seu [!DNL AndroidManifest.xml]. O [!DNL AndroidManifest.xml] final deve ficar parecido com o exemplo abaixo:
 
 <!--
 Removed `{.line-numbers}` below
@@ -139,4 +139,4 @@ Removed `{.line-numbers}` below
 
 ## Executar o aplicativo
 
-Execute o aplicativo clicando no link **seta verde** na barra de ferramentas ou na guia [!DNL Run] menu.
+Execute o aplicativo clicando na **seta verde** na barra de ferramentas ou no menu [!DNL Run].

@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# Criar um [!UICONTROL In-App] delivery em um workflow
+# Criar uma entrega [!UICONTROL In-App] em um fluxo de trabalho
 
 Saiba como usar a atividade de entrega no aplicativo para automatizar o envio de uma mensagem no aplicativo para um público-alvo calculado em um fluxo de trabalho.
 

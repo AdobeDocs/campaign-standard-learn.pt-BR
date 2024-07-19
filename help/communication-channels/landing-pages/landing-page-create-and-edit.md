@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 15%
+source-wordcount: '81'
+ht-degree: 19%
 
 ---
 
@@ -25,4 +25,4 @@ O Adobe Campaign permite criar páginas de aterrissagem que são formulários on
 
 ## Recursos adicionais
 
-* [Criação de uma landing page (documentação)](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)
+* [Criando uma página de aterrissagem (documentação)](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)

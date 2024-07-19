@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configure a visualização para dispositivos móveis no [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configurar o modo de exibição móvel no [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 Este vídeo explica como ajustar o design responsivo de um email editando separadamente todas as opções de estilo para exibição em dispositivos móveis.
 

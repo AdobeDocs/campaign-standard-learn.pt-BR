@@ -12,8 +12,8 @@ team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 7%
+source-wordcount: '64'
+ht-degree: 12%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >No momento, esse recurso está na versão beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
 Saiba como verificar o status e modificar o mapeamento de dados.
 

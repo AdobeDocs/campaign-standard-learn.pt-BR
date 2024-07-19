@@ -11,7 +11,7 @@ exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Desenvolvido pela [!UICONTROL Journey AI], o [!DNL Adobe Campaign] pode analisar
 >[!CAUTION]
 >Esse recurso não está disponível para uso imediato como parte do produto. A implementação exige o engajamento da Adobe Consulting. Para saber mais, entre em contato com o seu representante da Adobe.
 
-O [!UICONTROL Predictive send time optimization] prevê qual é o melhor momento de envio para cada perfil de destinatário para aberturas ou cliques de email. Para cada perfil de recipient, as pontuações indicam o melhor horário de envio para cada dia da semana e qual dia da semana é o melhor para obter os melhores resultados.
+O [!UICONTROL Predictive send time optimization] prevê qual é o melhor momento de envio para cada perfil de destinatário para aberturas ou cliques de email. Para cada perfil de destinatário, as pontuações indicam o melhor horário de envio para cada dia da semana e qual dia da semana é o melhor para obter os melhores resultados.
 
 Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IA de jornada. Saiba como visualizar as pontuações de tempo de envio em nível de perfil individual e como executar entregas de email usando uma fórmula de tempo de envio.
 

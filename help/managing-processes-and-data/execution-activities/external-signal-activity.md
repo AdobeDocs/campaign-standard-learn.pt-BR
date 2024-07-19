@@ -13,15 +13,15 @@ level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # [!UICONTROL External Signal activity] - Chamar um fluxo de trabalho com parâmetros
 
-A variável [!UICONTROL External Signal activity] O é usado para organizar e orquestrar diferentes processos que fazem parte da mesma jornada do cliente em workflows diferentes. Esta atividade pode iniciar um workflow a partir de outro. A variável [!UICONTROL External Signal activity] O pode chamar um fluxo de trabalho e transmitir parâmetros, como um nome de público-alvo para o target, um nome de arquivo para importar ou uma parte do conteúdo da mensagem, de um fluxo de trabalho para outro. Ele também pode chamar uma API REST para integrar a sistemas externos, como um sistema de gerenciamento de conteúdo. Com o **Teste** atividade, testes podem ser executados nessa funcionalidade.
+O [!UICONTROL External Signal activity] é usado para organizar e orquestrar diferentes processos que fazem parte da mesma jornada do cliente em fluxos de trabalho diferentes. Esta atividade pode iniciar um workflow a partir de outro. O [!UICONTROL External Signal activity] pode chamar um fluxo de trabalho e passar parâmetros, como um nome de público-alvo para o target, um nome de arquivo para importar ou uma parte do conteúdo da mensagem, de um fluxo de trabalho para outro. Ele também pode chamar uma API REST para integrar a sistemas externos, como um sistema de gerenciamento de conteúdo. Com a atividade **Test**, testes podem ser executados nesta funcionalidade.
 
-Saiba como configurar [!UICONTROL External Signal activity] para receber parâmetros** de um sistema externo, personalize um workflow com parâmetros externos e configure uma atividade final para chamar um workflow com os parâmetros externos
+Saiba como configurar o [!UICONTROL External Signal activity] para receber parâmetros** de um sistema externo, personalizar um fluxo de trabalho com parâmetros externos e configurar uma atividade final para chamar um fluxo de trabalho com os parâmetros externos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
