@@ -1,7 +1,6 @@
 ---
 title: Solução de problemas para profissionais de marketing
 description: Conhecer os erros mais comuns pode ajudar na solução mais rápida de problemas e aumentar sua produtividade. Essas dicas de solução de problemas ajudam você a resolver com eficiência erros semelhantes que ocorrem.
-version: Standard
 feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,7 +9,7 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
+source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 0%
