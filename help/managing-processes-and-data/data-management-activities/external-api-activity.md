@@ -32,7 +32,7 @@ Este vídeo demonstra o uso da [!UICONTROL External API activity].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
 
-*[!UICONTROL External API activity](06:48 min)*
+*[!UICONTROL External API activity] (06:48 min)*
 
 >[!NOTE]
 >

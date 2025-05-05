@@ -59,7 +59,7 @@ Ao integrar com êxito seu aplicativo ao Firebase, você deve receber uma mensag
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Verifique se o projeto está listado no [!DNL Firebase ]console](https://console.firebase.google.com/)
+[Verifique se o projeto está listado no [!DNL Firebase &#x200B;]console](https://console.firebase.google.com/)
 
 ## Definir Configurações de [!UICONTROL Push Channel]
 
