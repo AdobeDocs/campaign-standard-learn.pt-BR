@@ -31,4 +31,4 @@ Cada serviço vem com:
 
 Este vídeo mostra como criar um serviço e gerenciar suas assinaturas.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31857?learn=on&captions=por_br){transcript=true}

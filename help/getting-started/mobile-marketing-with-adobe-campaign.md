@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo explica quais recursos do Adobe Campaign Standard podem dar suporte a sua estratégia de marketing para dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33182?learn=on&captions=por_br){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como criar um evento de acionador no Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446414?learn=on&captions=por_br){transcript=true}

@@ -29,12 +29,12 @@ Os vídeos a seguir explicam as etapas necessárias para configurar o [!UICONTRO
 
 ## Etapa 1 - Criar um evento e publicá-lo
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34411?learn=on&captions=por_br){transcript=true}
 
 ## Etapa 2 - Adicionar uma lista de produtos a um template de mensagem transacional
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34412?learn=on&captions=por_br){transcript=true}
 
 ## Etapa 3 — teste da mensagem transacional
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34413?learn=on&captions=por_br){transcript=true}

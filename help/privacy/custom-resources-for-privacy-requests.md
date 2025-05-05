@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Ao configurar o Adobe Campaign Standard para lidar com solicitações de privacidade, é necessário garantir que todos os dados personalizados vinculados a um perfil sejam excluídos quando o perfil for excluído. Este vídeo explica como modificar seus recursos personalizados para atender a esse requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30837?learn=on&captions=por_br){transcript=true}
 
 >[!NOTE]
 >

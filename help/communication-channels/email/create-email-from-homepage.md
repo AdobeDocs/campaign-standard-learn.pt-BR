@@ -23,4 +23,4 @@ Você pode criar uma entrega de email independente a partir de uma campanha, da 
 
 Saiba como criar uma entrega de email a partir da página inicial.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31852?learn=on&captions=por_br){transcript=true}

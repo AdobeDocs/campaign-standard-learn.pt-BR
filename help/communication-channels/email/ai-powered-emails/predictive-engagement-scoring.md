@@ -28,4 +28,4 @@ Desenvolvido pela [!UICONTROL Journey AI], o [!DNL Adobe Campaign] pode analisar
 
 Saiba como visualizar as pontuações de engajamento no nível do perfil individual, usar pontuações para direcionar usuários engajados e suprimir usuários cansados e como criar regras de tipologia para gerenciar a fadiga do cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328455?learn=on&captions=por_br){transcript=true}

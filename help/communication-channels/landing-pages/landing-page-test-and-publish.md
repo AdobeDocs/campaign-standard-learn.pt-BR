@@ -21,4 +21,4 @@ ht-degree: 30%
 
 Este vídeo explica como testar uma landing page e como publicá-la.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33219?learn=on&captions=por_br){transcript=true}

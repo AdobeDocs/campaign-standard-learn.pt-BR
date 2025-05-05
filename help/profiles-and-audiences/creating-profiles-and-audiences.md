@@ -28,4 +28,4 @@ Perfis agrupados de acordo com um ou vários critérios comuns são chamados de 
 
 Este vídeo explica como navegar até perfis existentes e como criar perfis e públicos no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38370/?learn=on&captions=por_br){transcript=true}

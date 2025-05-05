@@ -21,4 +21,4 @@ ht-degree: 13%
 
 Entenda qual ação iniciada pelo usuário aciona uma mensagem no aplicativo e saiba como configurar esses eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40913?learn=on&captions=por_br){transcript=true}

@@ -23,7 +23,7 @@ Este vídeo explica como você pode testar suas mensagens de email usando o [!UI
 
 Suponha que você queira enviar um email informativo personalizado. Entretanto, antes de enviá-lo, um colega quer revisá-lo e pediu provas. Você pode usar os recursos do [!UICONTROL Profile Substitution] para enviar uma prova, pois assim você pode enviar uma representação exata da mensagem que o perfil direcionado recebe.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36530?learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações, consulte a [documentação detalhada do produto](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=pt-BR).
 

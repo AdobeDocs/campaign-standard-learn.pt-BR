@@ -23,6 +23,6 @@ O Adobe Campaign permite que você crie e exclua solicitações de dados PII em 
 
 Aprenda a criar manualmente solicitações de privacidade e acompanhar sua evolução na interface do usuário do Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341017?learn=on&captions=por_br){transcript=true}
 
 Consulte a documentação do produto para obter mais informações sobre as [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=pt-BR).

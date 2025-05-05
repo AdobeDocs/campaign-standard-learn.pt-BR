@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo oferece uma visão geral sobre a interface do Adobe Campaign Standard e explica como acessar os principais recursos e funcionalidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39553?learn=on&captions=por_br){transcript=true}

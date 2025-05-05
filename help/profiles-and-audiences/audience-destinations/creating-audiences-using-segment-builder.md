@@ -33,6 +33,6 @@ Você pode acessar o [!UICONTROL Unified Segment Builder] diretamente no Adobe C
 
 O vídeo abaixo explica como um novo público-alvo é criado usando o [!UICONTROL Unified Segment Builder] no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38525?learn=on&captions=por_br){transcript=true}
 
 *Como criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (min 02:47)*

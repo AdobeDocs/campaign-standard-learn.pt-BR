@@ -23,4 +23,4 @@ Para criar solicitações de acesso e exclusão de privacidade, conforme exigido
 
 Saiba como criar namespaces para solicitações de privacidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29421?learn=on&captions=por_br){transcript=true}

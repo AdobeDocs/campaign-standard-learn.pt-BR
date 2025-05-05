@@ -24,4 +24,4 @@ O [!UICONTROL External Signal activity] é usado para organizar e orquestrar dif
 
 Saiba como configurar o [!UICONTROL External Signal activity] para receber parâmetros** de um sistema externo, personalizar um fluxo de trabalho com parâmetros externos e configurar uma atividade final para chamar um fluxo de trabalho com os parâmetros externos
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34329/?learn=on&captions=por_br){transcript=true}

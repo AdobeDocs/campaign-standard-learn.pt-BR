@@ -21,4 +21,4 @@ ht-degree: 100%
 
 São executadas por workflows em solicitações de privacidade do Adobe Campaign. Este vídeo descreve quais workflows acessam e excluem solicitações e o que acontece quando são executados.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30838?learn=on&captions=por_br){transcript=true}

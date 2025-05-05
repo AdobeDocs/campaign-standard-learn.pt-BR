@@ -27,6 +27,6 @@ ht-degree: 11%
 
 Saiba como mapear dados de propagação e perfis de teste com o Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35809?learn=on&captions=por_br){transcript=true}
 
 Consulte a documentação do produto para obter mais informações sobre a [definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=pt-BR) e a [ativação de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=pt-BR)

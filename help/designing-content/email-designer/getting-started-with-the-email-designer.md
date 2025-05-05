@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo explica a funcionalidade geral do [!UICONTROL Email Designer] e como projetar um email do zero.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327701?learn=on&captions=por_br){transcript=true}

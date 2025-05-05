@@ -23,7 +23,7 @@ O [!UICONTROL Dynamic Reports] da Adobe Campaign é um ambiente de forma livre f
 
 Este vídeo explica como criar um relatório com base em atributos de perfil personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33034?learn=on&captions=por_br){transcript=true}
 
 ## Recursos adicionais
 

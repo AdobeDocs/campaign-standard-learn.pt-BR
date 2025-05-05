@@ -23,7 +23,7 @@ O canal [!UICONTROL Direct Mail] permite extrair uma lista segmentada de destina
 
 Este vídeo explica como configurar uma entrega do [!UICONTROL Direct Mail] e quais configurações são necessárias para poder adicionar um perfil a uma entrega do [!UICONTROL Direct Mail].
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31841?learn=on&captions=por_br){transcript=true}
 
 ## Criar um [!UICONTROL Direct Mail] em um fluxo de trabalho
 

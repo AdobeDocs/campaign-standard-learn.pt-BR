@@ -21,4 +21,4 @@ ht-degree: 42%
 
 Este vídeo explica como pré-visualizar seu email e a análise antisspam.
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39669?learn=on&captions=por_br){transcript=true}

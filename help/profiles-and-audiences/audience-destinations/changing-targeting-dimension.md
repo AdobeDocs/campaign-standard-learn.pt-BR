@@ -29,4 +29,4 @@ ht-degree: 6%
 
 Este vídeo explica como alterar o targeting dimension de um delivery para um [!UICONTROL Platform Audience] fora da tabela de perfil principal no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33268?learn=on&captions=por_br){transcript=true}

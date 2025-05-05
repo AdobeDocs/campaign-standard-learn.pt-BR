@@ -20,4 +20,4 @@ ht-degree: 33%
 
 Entenda logs de mensagens, logs de tarefas e logs de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445039/?learn=on&captions=por_br){transcript=true}

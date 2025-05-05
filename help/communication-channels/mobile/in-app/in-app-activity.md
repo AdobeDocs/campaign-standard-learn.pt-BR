@@ -21,4 +21,4 @@ ht-degree: 15%
 
 Saiba como usar a atividade de entrega no aplicativo para automatizar o envio de uma mensagem no aplicativo para um público-alvo calculado em um fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38574?learn=on&captions=por_br){transcript=true}

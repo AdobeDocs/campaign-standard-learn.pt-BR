@@ -24,7 +24,7 @@ Este tutorial percorre as etapas envolvidas no envio de notificações por push 
 ## Pré-requisitos
 
 * Você deve ter a propriedade de lançamento configurada com a Extensão do Adobe Campaign Standard. Siga a ajuda online listada abaixo.
-   * [Tutorial em vídeo](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+   * [Tutorial em vídeo](https://video.tv.adobe.com/v/40906?learn=on&captions=por_br){transcript=true}
    * [Documentação](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=pt-BR)
 
 * Verifique se o status da propriedade correspondente no Adobe Campaign Standard está definido como configurado.

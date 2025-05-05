@@ -21,4 +21,4 @@ ht-degree: 22%
 
 Saiba como configurar e usar o modelo de transmissão para direcionar todos os usuários do seu aplicativo móvel.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40920?learn=on&captions=por_br){transcript=true}

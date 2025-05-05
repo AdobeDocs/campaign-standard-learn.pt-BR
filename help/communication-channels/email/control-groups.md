@@ -25,4 +25,4 @@ O [!DNL Adobe Campaign Standard] permite criar um [!UICONTROL control group], qu
 
 Saiba como definir um [!UICONTROL control group] para o seu [!UICONTROL delivery] e como extrair os perfis atribuídos ao [!UICONTROL control group] após o envio do [!UICONTROL delivery].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328545?learn=on&captions=por_br){transcript=true}
