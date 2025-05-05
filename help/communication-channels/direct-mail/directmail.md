@@ -31,4 +31,4 @@ O canal está disponível na página inicial e na visualização do fluxo de tra
 
 ![Imagem do Fluxo de Trabalho](/help/assets/direct_mail_examplewf.png)
 
-Consulte a documentação do produto para saber mais [sobre Correspondência Direta](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consulte a documentação do produto para saber mais [sobre Correspondência Direta](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=pt-BR)

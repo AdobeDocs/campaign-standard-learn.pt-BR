@@ -21,4 +21,4 @@ Saiba como preencher recursos personalizados com dados de um arquivo do [!DNL CS
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Para obter mais informações sobre como preencher recursos personalizados por meio de um [!DNL API], consulte a documentação: [Interação com recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Para obter mais informações sobre como preencher recursos personalizados por meio de um [!DNL API], consulte a documentação: [Interação com recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=pt-BR).

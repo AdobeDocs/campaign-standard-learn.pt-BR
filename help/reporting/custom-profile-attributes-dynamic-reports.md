@@ -27,4 +27,4 @@ Este vídeo explica como criar um relatório com base em atributos de perfil per
 
 ## Recursos adicionais
 
-* [Sobre os relatórios](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Sobre os relatórios](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=pt-BR)

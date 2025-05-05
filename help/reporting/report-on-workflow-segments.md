@@ -25,4 +25,4 @@ Saiba como definir segmentos no seu fluxo de trabalho e como convertê-los em re
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=pt-BR)

@@ -27,7 +27,7 @@ ht-degree: 11%
 >
 >Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
-O Adobe Campaign Standard permite criar públicos-alvo usando dados do [Perfil de Cliente em Tempo Real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) do Adobe Experience Cloud usando o [!UICONTROL Unified Segment Builder] do Adobe Experience Platform.
+O Adobe Campaign Standard permite criar públicos-alvo usando dados do [Perfil de Cliente em Tempo Real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=pt-BR) do Adobe Experience Cloud usando o [!UICONTROL Unified Segment Builder] do Adobe Experience Platform.
 
 Você pode acessar o [!UICONTROL Unified Segment Builder] diretamente no Adobe Campaign Standard por meio do módulo [!UICONTROL Audiences]. Ele permite gerenciar esses públicos diretamente na exibição de lista [!UICONTROL Audiences], onde você pode editar ou criar um público-alvo do Adobe Experience Platform diretamente na interface do Adobe Campaign
 

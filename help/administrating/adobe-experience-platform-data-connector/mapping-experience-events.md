@@ -31,5 +31,5 @@ Saiba como mapear [!UICONTROL Experience Events] no Adobe Experience Platform (A
 
 ## Recursos adicionais
 
-* [Definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [Ativação de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+* [Definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=pt-BR)
+* [Ativação de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=pt-BR)

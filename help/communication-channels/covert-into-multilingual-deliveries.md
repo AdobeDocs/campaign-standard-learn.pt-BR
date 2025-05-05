@@ -23,4 +23,4 @@ Este vídeo demonstra como um email, um delivery de SMS ou um template do delive
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Consulte a documentação do produto para obter mais informações sobre [criação de um email multilíngue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Consulte a documentação do produto para obter mais informações sobre [criação de um email multilíngue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=pt-BR)

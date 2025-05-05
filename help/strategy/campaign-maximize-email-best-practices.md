@@ -140,4 +140,4 @@ Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) 
 
 Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=pt-BR).

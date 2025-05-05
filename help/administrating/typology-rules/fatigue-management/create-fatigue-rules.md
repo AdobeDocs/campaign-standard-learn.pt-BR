@@ -28,4 +28,4 @@ Para criar [!UICONTROL fatigue rules], você precisa definir um número máximo 
 
 ## Recursos adicionais
 
-* [Regras de fadiga (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Regras de fadiga (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=pt-BR)

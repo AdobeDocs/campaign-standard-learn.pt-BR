@@ -25,4 +25,4 @@ Saiba como configurar e enviar um teste A/B para testar a linha de assunto de um
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) para obter mais detalhes sobre como testar o conteúdo ou o remetente.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=pt-BR) para obter mais detalhes sobre como testar o conteúdo ou o remetente.
