@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 100%
    + [Introdução aos relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing para dispositivos móveis com o Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescer com o Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
-+ Perfis e públicos {#profiles-and-audiences}
++ Perfis e públicos-alvo {#profiles-and-audiences}
    + [Criar perfis e públicos — visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
    + [Importar perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + [Gerenciar serviços e assinaturas](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Destinos de público (BETA){#audience-destinations}
+   + Destinos do público-alvo (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Criar um público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Ativar públicos da Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -50,12 +50,12 @@ ht-degree: 100%
       + [Converter um email, entrega de SMS ou template do delivery existente em multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisar uma entrega de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Criar e enviar emails por meio de um fluxo de trabalho](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + Emails habilitados por IA {#journey-ai}
+      + Emails alimentados por IA {#journey-ai}
          + [Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Pontuação de envolvimento preditivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Celular {#mobile}
       + SMS{#sms}
-         + [Criar uma entrega de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Crie uma entrega de SMS.](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notificações por push {#push}
          + [Criar uma notificação por push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Criar uma notificação por push multilíngue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -68,12 +68,12 @@ ht-degree: 100%
          + [Relatório sobre a entrega no aplicativo](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configurar um aplicativo para dispositivos móveis usando o SDK da Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Correspondência direta](/help/communication-channels/direct-mail/directmail.md)
-   + Landing pages {#landing-pages}
+   + Páginas de destino {#landing-pages}
       + [Criar e editar uma landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testar e publicar uma landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurar um modelo de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Projetar e personalizar conteúdo {#designing-content}
-   + Designer de email{#email-designer}
+   + Email Designer{#email-designer}
       + [Visão geral](/help/designing-content/email-designer/email-designer-overview.md)
       + [Introdução ao Designer de email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introdução a modelos de conteúdo de email](/help/designing-content/email-designer/email-content-templates.md)
@@ -82,11 +82,11 @@ ht-degree: 100%
       + [Trabalhar com conteúdo existente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Criar conteúdo usando o Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurar listas de produtos em emails transacionais](/help/designing-content/product-listings-in-transactional-email.md)
-+ Gerenciar dados e processos {#managing-processes-and-data}
++ Gerenciamento de processos e dados {#managing-processes-and-data}
    + [Criar um fluxo de trabalho](/help/managing-processes-and-data/creating-a-workflow.md)
    + Atividades de execução {#execution-activities}
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
-   + Atividades de gerenciamento de dados {#data-management-activities}
+   + Atividades de gestão de dados {#data-management-activities}
       + [Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Relatar e monitorar {#reporting}
    + [Explorar relatórios](/help/getting-started/exploring-reports.md)
@@ -107,7 +107,7 @@ ht-degree: 100%
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
    + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
-   + Conector de dados da Adobe Experience Platform {#adobe-experience-platform-data-connector}
+   + Conector de dados do Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Saiba mais sobre o Conector de dados da Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapear recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mapear eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
