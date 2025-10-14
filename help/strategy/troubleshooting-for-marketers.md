@@ -81,7 +81,7 @@ Há duas maneiras de resolver esse erro:
 
 2. Use o método de exclusão JOINS para selecionar o campo com base no qual deseja excluir os registros.
 
-![Erro de Conjunto de Dados de Campo Comum - Solução ](/help/assets/kt-13256/dataset-error-solution.png)
+![Erro de Conjunto de Dados de Campo Comum - Solução &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Erro de descarte de nome de campo
 
@@ -114,7 +114,7 @@ Você pode resolver esse erro de três maneiras:
 **Causa:**
 Esse é um erro comum em workflows complicados envolvendo enriquecimento ou outra atividade. Isso provavelmente significa que alguns dos workflows de atividade não são salvos corretamente durante várias alterações no workflow.
 
-![Tabela Temporária Removida Erro ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Tabela Temporária Removida Erro &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solução:**
 Há muitas maneiras de esse erro ocorrer, portanto, não há uma correção simples. Se for um fluxo de trabalho simples, é melhor reconfigurar a atividade. Em um workflow complicado, é melhor copiar as atividades do workflow para um novo workflow, salvá-lo e executá-lo novamente.
