@@ -20,23 +20,23 @@ ht-degree: 91%
    + [Configurar uma lista](/help/getting-started/configure-a-list.md)
    + [Explore a hierarquia e as atividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gerenciar campanhas](/help/getting-started/managing-campaigns.md)
-   + [Saiba mais sobre perfis e públicos](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Saiba mais sobre perfis e públicos-alvos](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Criar um email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=pt-BR)
    + [Criar um fluxo de trabalho](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=pt-BR)
    + [Introdução aos relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing para dispositivos móveis com o Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescer com o Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
-   + [Criar perfis e públicos — visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Criar perfis e públicos-alvos — visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
    + [Importar perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + [Gerenciar serviços e assinaturas](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos do público-alvo (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Criar um público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Ativar públicos da Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [Alterar a targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + [Criar um público-alvo usando o Construtor de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Ativar públicos-alvos da Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Alterar a dimensão de direcionamento](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canais de comunicação {#communication-channels}
    + Email {#email}
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
@@ -47,12 +47,12 @@ ht-degree: 91%
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
       + [Adicionar um grupo de controle a uma entrega](/help/communication-channels/email/control-groups.md)
       + [Criar um email ou uma entrega de SMS multilíngue](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Converter um email, entrega de SMS ou template do delivery existente em multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Converter um email, entrega de SMS ou modelo do delivery existente em multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisar uma entrega de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Criar e enviar emails por meio de um fluxo de trabalho](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + Emails alimentados por IA {#journey-ai}
          + [Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Pontuação de envolvimento preditivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [Pontuação preditiva de engajamento](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Celular {#mobile}
       + SMS{#sms}
          + [Crie uma entrega de SMS.](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -113,7 +113,7 @@ ht-degree: 91%
       + [Mapear eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mapear dados da tabela de seed](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificar o mapeamento de dados](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Verificar o status dos trabalhos de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Verificar o status dos trabalhos de ingestão de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Regras de tipologia{#typology-rules}
       + Gerenciamento de fadiga{#fatigue-management}
          + [Criar regras de fadiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
