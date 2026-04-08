@@ -12,19 +12,19 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '125'
+workflow-type: ht
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
-# Visão geral do [!UICONTROL Email Designer] 
+# Visão geral do [!UICONTROL Email Designer]
 
 O [!UICONTROL Email Designer] permite a criação visual de emails personalizados individualmente de forma fácil e rápida, sem a necessidade de criar scripts para uma única linha de código, ajudando a ampliar a criação de emails. Ele permite criar conteúdo de email e modelos de conteúdo de email. Ele é compatível com emails simples, emails transacionais, emails de teste A/B, emails multilíngues e emails recorrentes.
 
 Este vídeo oferece uma visão geral de alto nível sobre a funcionalidade e o uso do Adobe Campaign Standard [!UICONTROL Email Designer].
 
->[!VIDEO](https://video.tv.adobe.com/v/330105?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
 
 ## Tutoriais
 

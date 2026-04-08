@@ -11,8 +11,8 @@ exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: User, Admin, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '56'
+workflow-type: ht
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo oferece uma visão geral sobre a interface do Adobe Campaign Standard e explica como acessar os principais recursos e funcionalidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/39553?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18469?learn=on){transcript=true}

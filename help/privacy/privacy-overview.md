@@ -11,15 +11,15 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '191'
+workflow-type: ht
+source-wordcount: '236'
 ht-degree: 100%
 
 ---
 
 # Solicitações de privacidade com a interface do Adobe Campaign Standard
 
-O Adobe Campaign oferece aos controladores de dados três métodos para executar o acesso à Privacidade e excluir solicitações de dados PII em conformidade com as leis de privacidade, como o GDPR (Regulamento Geral sobre a Proteção de Dados) e a CCPA (Lei de Privacidade do Consumidor da Califórnia):
+O Adobe Campaign oferece aos controladores de dados três métodos para executar o acesso à Privacidade e excluir solicitações de dados PII em conformidade com as leis de privacidade, como o RGPD (Regulamento Geral sobre a Proteção de Dados) e a CCPA (Lei de Privacidade do Consumidor da Califórnia):
 
 * **Por meio da integração do Serviço principal de privacidade:** as solicitações de privacidade enviadas do [!UICONTROL Privacy Service] para todas as soluções da Experience Cloud são tratadas automaticamente pelo Campaign por meio de um fluxo de trabalho dedicado.
 
@@ -41,7 +41,7 @@ O Adobe Campaign oferece aos controladores de dados três métodos para executar
 
 ## Recursos adicionais
 
-* [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=pt-BR#getting-started)
-* [CCPA para ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=pt-BR#privacy-requests)
-* [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR)
+* [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/getting-started/privacy/privacy-management#getting-started)
+* [CCPA para ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=pt-br#privacy-requests)
+* [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/pt-br/docs/experience-platform/privacy/home)
 * [Documentação da API REST do Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)

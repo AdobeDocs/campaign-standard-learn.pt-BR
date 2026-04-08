@@ -11,8 +11,8 @@ exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '38'
+workflow-type: ht
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo explica quais recursos do Adobe Campaign Standard podem dar suporte a sua estratégia de marketing para dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/33182?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}

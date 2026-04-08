@@ -11,8 +11,8 @@ exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '30'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo destaca os próximos passos para uma verdadeira orquestração entre canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/33181?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
