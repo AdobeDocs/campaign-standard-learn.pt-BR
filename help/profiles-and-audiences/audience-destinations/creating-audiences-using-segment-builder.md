@@ -35,4 +35,4 @@ O vídeo abaixo explica como um novo público-alvo é criado usando o [!UICONTRO
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
-*Como criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (min{02:47)*
+*Como criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (min&lbrace;02:47)*
