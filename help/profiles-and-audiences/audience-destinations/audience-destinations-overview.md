@@ -30,7 +30,7 @@ ht-degree: 6%
 >Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 >
 
-O módulo de Públicos-alvo no Adobe Campaign Standard permite criar segmentos usando dados do [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) do Adobe Experience Platform.
+O módulo de Públicos-alvo no Adobe Campaign Standard permite criar segmentos usando dados do [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=pt-BR) do Adobe Experience Platform.
 
 Os seguintes tutoriais em vídeo orientam você pelas diferentes etapas:
 
