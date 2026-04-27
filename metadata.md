@@ -6,19 +6,19 @@ version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-standard-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
-workflow-type: ht
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório que são repassados para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo do arquivo metadata.md de qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+O arquivo metadata.md inclui metadados de nível de repositório que passam para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
 | metadados | O que isso significa |
 |--- |--- |

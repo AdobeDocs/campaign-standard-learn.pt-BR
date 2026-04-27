@@ -12,9 +12,9 @@ level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '131'
 ht-degree: 6%
 
 ---
@@ -30,10 +30,10 @@ ht-degree: 6%
 >Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 >
 
-O módulo de Públicos-alvo no Adobe Campaign Standard permite criar segmentos usando dados do [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=pt-BR) do Adobe Experience Platform.
+O módulo de Públicos-alvo no Adobe Campaign Standard permite criar segmentos usando dados do [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) do Adobe Experience Platform.
 
 Os seguintes tutoriais em vídeo orientam você pelas diferentes etapas:
 
-1. [Criar um público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [Ativar públicos-alvo do Experience Platform em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+1. [Criar um público-alvo usando o Construtor de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+2. [Ativar públicos-alvo da Experience Platform em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Alterar a dimensão de direcionamento de uma entrega para um Público-alvo da plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
