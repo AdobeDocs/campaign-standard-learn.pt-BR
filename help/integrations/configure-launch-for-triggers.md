@@ -25,4 +25,4 @@ Saiba como coletar dados da Adobe Experience Platform e adicionar as propriedade
 >
 > Observe que o Launch agora é o recurso de tags da Adobe Experience Platform. Pode ser encontrado em **Coleções de dados da Adobe Experience Platform**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454021?captions=por_br&learn=on){transcript=true}
