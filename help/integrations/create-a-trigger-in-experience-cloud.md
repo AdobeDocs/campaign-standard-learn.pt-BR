@@ -9,12 +9,11 @@ doc-type: article
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: true
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
 badgeIntegration: label="Integração" type="positive"
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '31'
 ht-degree: 100%
 
 ---
@@ -23,4 +22,4 @@ ht-degree: 100%
 
 Saiba como configurar acionadores na Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446143?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446143?captions=por_br&learn=on){transcript=true}
