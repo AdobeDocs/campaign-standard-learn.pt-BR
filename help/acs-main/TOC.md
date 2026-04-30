@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Vídeos e tutoriais do Adobe Campaign Standard.
 breadcrumb-title: Tutoriais do Campaign Standard
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [Importar perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + [Gerenciar serviços e assinaturas](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos de público-alvo (BETA){#audience-destinations}
-      + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Criar um público-alvo usando o Construtor de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Ativar públicos-alvos da Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [Alterar a dimensão de direcionamento](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[Criar um público-alvo usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[Ativar públicos-alvo da Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[Alterar a targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canais de comunicação {#communication-channels}
    + Email {#email}
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Agendar mensagens](/help/communication-channels/email/schedule-messages.md)
       + [Enviar uma prova](/help/communication-channels/email/send-a-proof.md)
       + [Teste AB](/help/communication-channels/email/a-b-testing.md)
@@ -99,14 +99,14 @@ ht-degree: 100%
    + Usar acionadores para mensagens transacionais {#triggers}
       + [Visão geral](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configurar o Launch para acionadores](/help/integrations/configure-launch-for-triggers.md)
-      + [Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuração do Microsoft® Dynamics 365 para integração com o Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
-   + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
+   + [Painel de controle](https://experienceleague.adobe.com/pt-br/docs/control-panel-learn/tutorials/control-panel-overview){target="_blank"}
    + Conector de dados da Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Saiba mais sobre o Conector de dados da Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapear recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -128,4 +128,4 @@ ht-degree: 100%
    + [Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Solução de problemas para profissionais de marketing](/help/strategy/troubleshooting-for-marketers.md)
    + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Guia de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
+   + [Guia de práticas recomendadas de capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)

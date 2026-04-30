@@ -11,8 +11,7 @@ exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 9%
@@ -27,12 +26,12 @@ ht-degree: 9%
 >
 >Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
-O Adobe Campaign Standard permite criar públicos-alvo usando dados do [Perfil de Cliente em Tempo Real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=pt-BR) do Adobe Experience Cloud usando o [!UICONTROL Unified Segment Builder] do Adobe Experience Platform.
+O Adobe Campaign Standard permite criar públicos-alvo usando dados do [Perfil de Cliente em Tempo Real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) do Adobe Experience Cloud usando o [!UICONTROL Unified Segment Builder] do Adobe Experience Platform.
 
 Você pode acessar o [!UICONTROL Unified Segment Builder] diretamente no Adobe Campaign Standard por meio do módulo [!UICONTROL Audiences]. Ele permite gerenciar esses públicos diretamente na exibição de lista [!UICONTROL Audiences], onde você pode editar ou criar um público-alvo do Adobe Experience Platform diretamente na interface do Adobe Campaign
 
 O vídeo abaixo explica como um novo público-alvo é criado usando o [!UICONTROL Unified Segment Builder] no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/38525?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
-*Como criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (min&lbrace;02:47)*
+*Como criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (min{02:47)*
