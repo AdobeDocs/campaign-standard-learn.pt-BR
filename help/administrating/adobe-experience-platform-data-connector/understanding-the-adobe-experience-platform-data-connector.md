@@ -10,10 +10,15 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 5%
+source-wordcount: 273
+ht-degree: 4%
 
 ---
 
@@ -33,7 +38,7 @@ O conector é unidirecional e envia os dados do Adobe Campaign Standard para a A
 
 O Adobe Experience Platform [!UICONTROL Data Connector] destina-se a engenheiros de dados que compreendem o Adobe Campaign Standard [!UICONTROL custom resources] e que têm uma compreensão de como o esquema de dados geral do cliente deve estar dentro do Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/34326?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34326?captions=por_br&learn=on){transcript=true}
 
 *Este vídeo fornece uma visão geral sobre o Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
@@ -45,11 +50,11 @@ O Adobe Experience Platform [!UICONTROL Data Connector] destina-se a engenheiros
 
 ## Etapas principais para executar um mapeamento de dados
 
-Os tutoriais a seguir descrevem as principais etapas para executar um mapeamento de dados entre o Campaign Standard e o Adobe Experience Platform:
+Os tutoriais a seguir descrevem as principais etapas para executar um mapeamento de dados entre o Campaign Standard e a Adobe Experience Platform:
 
 1. [Mapeamento de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
 2. [Mapeamento de eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mapeamento de dados da tabela de seed](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modificação do Mapeamento de Dados](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Verificar o status dos trabalhos de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Verificar o status de um processo de ingestão de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 

@@ -10,9 +10,16 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '212'
+TQID: https://experienceleague.adobe.com/QLA8aB3Oqq0yGG-SnNBi9T6UHgA10IEesedmH5WlBLY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 212
 ht-degree: 100%
 
 ---
@@ -27,7 +34,7 @@ Ao configurar o Adobe Campaign Standard para lidar com solicitações de privaci
 >
 >**Recusar a venda de informações pessoais (CCPA)**
 >
->A partir da versão 19.4, o campo Recusa da CCPA é oferecido pronto para uso na interface e API do Campaign. Para usar essa informação na versão 19.3, é necessário criar esse >campo no Adobe Campaign Standard. Consulte a [documentação detalhada](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=pt-br#privacy-requests) para obter mais informações.
+>A partir da versão 19.4, o campo Recusa da CCPA é oferecido pronto para uso na interface e API do Campaign. Para usar essa informação na versão 19.3, é necessário criar esse >campo no Adobe Campaign Standard. Consulte a [documentação detalhada](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=pt-BR#privacy-requests) para obter mais informações.
 >
 > Para verificar sua versão, clique no **?** no canto superior direito da interface e selecione Sobre.
 

@@ -5,13 +5,26 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
+TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: 743
 ht-degree: 0%
 
 ---
@@ -20,7 +33,7 @@ ht-degree: 0%
 
 Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultor sênior, Meijer
 
-Como engenheiro sênior e especialista em clientes de produtos Adobe Experience Cloud nos últimos cinco anos, eu ofereço aos usuários de negócios da [Meijer](https://www.meijer.com/){target="_blank"}, uma cadeia de supercentros americana fundada em 1934, a capacidade de executar campanhas transacionais e de marketing complexas com o ACS. Alguns projetos nos quais trabalhei incluem campanhas personalizadas para armazenar ofertas e detalhes de pedidos para personalização, integradas ao Adobe Audience Manager, e insight do cliente para assimilação de segmentos.
+Como engenheiro sênior e especialista em clientes de produtos Adobe Experience Cloud nos últimos cinco anos, eu ofereço aos usuários de negócios da [Meijer](https://www.meijer.com/){target="_blank"}, uma cadeia de supercentros americana fundada em 1934, a capacidade de executar campanhas transacionais e de marketing complexas com o ACS. Alguns projetos nos quais trabalhei incluem campanhas personalizadas para armazenar ofertas e detalhes de pedidos para personalização, integradas à Adobe Audience Manager e à insight do cliente para assimilação de segmentos.
 
 
 No meu tempo usando o ACS, me deparei com erros que podem ser demorados e frustrantes de resolver. Conhecer os erros mais comuns pode ajudar na solução mais rápida de problemas e aumentar sua produtividade. Abaixo estão minhas dicas de solução de problemas para ajudar você a resolver com eficiência erros semelhantes que ocorrem.
@@ -66,7 +79,7 @@ Saiba mais sobre [reconciliação](https://experienceleague.adobe.com/pt-br/docs
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Causa:**
-Esse problema ocorre ao usar a **atividade de exclusão** em fluxos de trabalho ACS, ao executar uma exclusão com base na ID, quando o conjunto Principal e o conjunto excluído não têm os mesmos nomes de campo.
+Esse problema ocorre ao usar a **atividade de exclusão** em fluxos de trabalho do ACS, ao executar uma exclusão com base na ID, quando o conjunto Principal e o conjunto excluído não têm os mesmos nomes de campo.
 
 
 ![Erro no conjunto de dados do campo comum](/help/assets/kt-13256/dataset-error.png)

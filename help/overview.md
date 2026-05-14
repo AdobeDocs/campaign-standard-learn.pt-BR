@@ -5,10 +5,15 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
+TQID: https://experienceleague.adobe.com/FenvZrMwYIQxSWeycBD9F-3pc-669812tnwzhMUxb5k
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: 251
+ht-degree: 92%
 
 ---
 
@@ -35,7 +40,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">
-    <strong>Substituição de perfil – Teste de mensagens de email usando perfis direcionados (vídeo)</strong>
+    <strong>Substituição de Perfil - Teste de mensagens de email usando perfis direcionados (vídeo)</strong>
     </a>
     </div>
     <p>
@@ -48,7 +53,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=pt-BR">
-    <strong>Painel de controle (vídeos)</strong>
+    <strong>Painel de Controle (vídeos)</strong>
     </a>
     </div>
     <p>

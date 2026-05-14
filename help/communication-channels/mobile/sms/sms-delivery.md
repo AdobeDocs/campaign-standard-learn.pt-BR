@@ -10,17 +10,28 @@ team: DOC
 exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/icfkTf8Te-OmTSGzDofAWIj9lFjNBzaOKvZbytGqjuE
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 22%
+source-wordcount: 73
+ht-degree: 20%
 
 ---
 
-# Criar uma entrega de SMS{#creating-a-sms-delivery}
+# Crie uma entrega de SMS.{#creating-a-sms-delivery}
 
 Saiba como criar uma entrega de SMS no Adobe Campaign Standard. Você também pode configurar o envio de SMS em um workflow usando a atividade SMS delivery.
 
 A atividade SMS delivery é usada para automatizar o envio de SMS. A configuração dessa atividade é a mesma da configuração do delivery único descrita no vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/31861/?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31861/?captions=por_br&learn=on){transcript=true}
