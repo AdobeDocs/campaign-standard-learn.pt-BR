@@ -30,4 +30,4 @@ ht-degree: 18%
 
 Este vídeo explica como definir e gerenciar as permissões atribuídas a diferentes usuários no Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36131?captions=por_br&learn=on){transcript=true}

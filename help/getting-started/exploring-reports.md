@@ -30,7 +30,7 @@ ht-degree: 100%
 
 Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38320?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

@@ -38,6 +38,6 @@ O [!UICONTROL Predictive send time optimization] prevê qual é o melhor momento
 
 Entenda quais fluxos de trabalho são necessários para sincronizar dados entre o Adobe Campaign e o modelo do Journey AI. Saiba como visualizar as pontuações de tempo de envio em nível de perfil individual e como executar entregas de email usando uma fórmula de tempo de envio.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328464?captions=por_br&learn=on){transcript=true}
 
 Consulte a documentação do produto para saber mais sobre [otimização do design e da entrega com emails de inteligência artificial](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=pt-BR)

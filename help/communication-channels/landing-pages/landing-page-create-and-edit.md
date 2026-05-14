@@ -28,7 +28,7 @@ ht-degree: 16%
 
 O Adobe Campaign permite criar páginas de aterrissagem que são formulários online que podem ser usados para capturar informações em seus públicos, oferecer assinaturas para um serviço, exibir dados e expandir seu banco de dados. As landing pages também podem ser usadas para adquirir ou atualizar perfis existentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36317?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

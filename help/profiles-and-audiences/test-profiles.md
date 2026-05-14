@@ -31,4 +31,4 @@ Os perfis de teste permitem direcionar destinatários adicionais que não corres
 
 Este vídeo explica como criar perfis de teste
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31854?captions=por_br&learn=on){transcript=true}

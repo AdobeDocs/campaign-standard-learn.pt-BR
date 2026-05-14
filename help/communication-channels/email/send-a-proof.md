@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Saiba como testar uma mensagem de email antes de enviá-la para os destinatários finais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446220/?captions=por_br&learn=on){transcript=true}

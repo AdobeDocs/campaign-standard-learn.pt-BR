@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Este vídeo explica o conceito e como criar perfis e públicos-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38378?captions=por_br&learn=on){transcript=true}

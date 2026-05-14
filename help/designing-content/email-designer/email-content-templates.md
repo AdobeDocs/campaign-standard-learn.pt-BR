@@ -31,4 +31,4 @@ O Adobe Campaign Standard oferece 18 modelos de e-mail responsivos e totalmente 
 
 Este vídeo apresenta os modelos e explica como criar seu próprio modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33216?captions=por_br&learn=on){transcript=true}

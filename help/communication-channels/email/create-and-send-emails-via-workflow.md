@@ -32,4 +32,4 @@ Você pode criar um email a partir de uma campanha, da página inicial do Adobe 
 
 Saiba como criar e enviar emails por meio de um workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33842?captions=por_br&learn=on){transcript=true}

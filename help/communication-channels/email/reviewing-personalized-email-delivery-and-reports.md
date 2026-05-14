@@ -30,4 +30,4 @@ ht-degree: 23%
 
 Este vídeo explica como revisar uma entrega de email personalizada e explora diferentes relatórios que estão disponíveis no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38362?captions=por_br&learn=on){transcript=true}

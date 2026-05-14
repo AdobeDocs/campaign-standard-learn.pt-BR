@@ -38,4 +38,4 @@ O Adobe Campaign permite enviar o [!UICONTROL push notifications] personalizado 
 
 O vídeo descreve como enviar um [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36321?captions=por_br&learn=on){transcript=true}

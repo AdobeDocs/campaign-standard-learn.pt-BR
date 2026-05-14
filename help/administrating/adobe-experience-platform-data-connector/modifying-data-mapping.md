@@ -32,7 +32,7 @@ ht-degree: 6%
 
 Saiba como verificar o status e modificar o mapeamento de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38497?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

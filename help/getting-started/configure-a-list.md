@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Este vídeo explica como você pode alterar as colunas exibidas, a ordem, e a ordem de classificação de uma visualização de lista no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31863/?captions=por_br&learn=on){transcript=true}

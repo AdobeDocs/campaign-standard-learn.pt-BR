@@ -30,4 +30,4 @@ ht-degree: 16%
 
 Saiba como direcionar usuários de aplicativos móveis conhecidos com mensagens personalizadas com atributos de perfil do CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35389?captions=por_br&learn=on){transcript=true}

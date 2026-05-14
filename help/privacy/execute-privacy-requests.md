@@ -28,4 +28,4 @@ ht-degree: 100%
 
 São executadas por fluxos de trabalho em solicitações de privacidade do Adobe Campaign. Este vídeo descreve quais fluxos de trabalho acessam e excluem solicitações e o que acontece quando são executados.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30838?captions=por_br&learn=on){transcript=true}

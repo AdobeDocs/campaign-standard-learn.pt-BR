@@ -32,4 +32,4 @@ ht-degree: 10%
 
 Saiba como apresentar ao usuário mensagens no aplicativo contextualmente relevantes em resposta ao comportamento em tempo real de um cliente no aplicativo móvel.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34799?captions=por_br&learn=on){transcript=true}

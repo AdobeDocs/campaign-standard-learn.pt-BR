@@ -38,7 +38,7 @@ O conector é unidirecional e envia os dados do Adobe Campaign Standard para a A
 
 O Adobe Experience Platform [!UICONTROL Data Connector] destina-se a engenheiros de dados que compreendem o Adobe Campaign Standard [!UICONTROL custom resources] e que têm uma compreensão de como o esquema de dados geral do cliente deve estar dentro do Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34326?captions=por_br&learn=on){transcript=true}
 
 *Este vídeo fornece uma visão geral sobre o Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 

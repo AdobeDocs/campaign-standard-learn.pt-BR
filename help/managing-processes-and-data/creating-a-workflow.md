@@ -43,6 +43,6 @@ Os fluxos de trabalho podem ser usados em contextos diferentes, por exemplo:
 
 Este vídeo mostrará como criar e editar um fluxo de trabalho no Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31853?captions=por_br&learn=on){transcript=true}
 
 Consulte a documentação do produto para obter mais informações sobre [Criação de um fluxo de trabalho (Documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=pt-BR)

@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Este vídeo destaca os próximos passos para uma verdadeira orquestração entre canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33181?captions=por_br&learn=on){transcript=true}

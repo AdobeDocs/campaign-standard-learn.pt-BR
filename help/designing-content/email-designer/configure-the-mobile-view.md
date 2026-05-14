@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Este vídeo explica como ajustar o design responsivo de um email editando separadamente todas as opções de estilo para exibição em dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39676?captions=por_br&learn=on){transcript=true}

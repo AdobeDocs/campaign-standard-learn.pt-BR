@@ -34,6 +34,6 @@ Depois de criar um fluxo de trabalho e filtrar sua população em públicos-alvo
 
 Saiba como definir segmentos no seu fluxo de trabalho e como convertê-los em relatórios dinâmicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33068?captions=por_br&learn=on){transcript=true}
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=pt-BR)

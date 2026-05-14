@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Saiba como configurar mensagens transacionais usando dados do evento em tempo real provenientes de acionadores.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450207?captions=por_br&learn=on){transcript=true}
