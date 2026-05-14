@@ -8,9 +8,11 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '211'
+TQID: https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 211
 ht-degree: 100%
 
 ---
@@ -24,7 +26,7 @@ Este tutorial percorre as etapas envolvidas no envio de notificações por push 
 ## Pré-requisitos
 
 * Você deve ter a propriedade de lançamento configurada com a Extensão do Adobe Campaign Standard. Siga a ajuda online listada abaixo.
-   * [Tutorial em vídeo](https://video.tv.adobe.com/v/40906?captions=por_br&learn=on){transcript=true}
+   * [Tutorial em vídeo](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [Documentação](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=pt-BR)
 
 * Verifique se o status da propriedade correspondente no Adobe Campaign Standard está definido como configurado.

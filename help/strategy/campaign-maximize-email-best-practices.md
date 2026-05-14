@@ -6,9 +6,15 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
+TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: addf009e-030a-4310-8534-776a3e62ed48id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: beb7a3c1-66ab-4786-b879-7621375b3c40id: c1579802-ddd4-4214-8a91-97b2066abe11id: d3cdead0-685a-4489-9250-4bb709942f66id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '1475'
+source-wordcount: 1497
 ht-degree: 0%
 
 ---
@@ -29,7 +35,7 @@ Como sua organização está rastreando a capacidade de entrega de suas campanha
 
 Antes de mergulhar na estratégia, é importante estar ciente dos problemas mais comuns do filtro de spam que podem afetar os resultados da campanha. Se você continuar enviando emails para assinantes inativos que não abrem seus emails, por mais de um ano, veja algumas coisas que você pode estar executando:
 
-* INCLUI NA LISTA DE BLOQUEIOS e INCLUI NA LISTA DE PERMISSÕES
+* ➡ incluis na lista de permissões e respostas
 * Filtros de conteúdo
 * Reputação de IP e domínio
 * Autenticação
@@ -38,13 +44,13 @@ Antes de mergulhar na estratégia, é importante estar ciente dos problemas mais
 
 ## Maximize o ROI do seu email
 
-Você sabia que em apenas um minuto na internet, há mais de um milhão de visualizações de vídeo, dois milhões de consultas de pesquisa do Google, seis milhões de visualizações do Facebook e 200 milhões de emails enviados? Com tanta coisa acontecendo, é importante garantir que seu conteúdo não se perca com o ruído. Particularmente se você está criando uma campanha durante uma temporada de festas, é ainda mais desafiador receber seus emails na frente de clientes em potencial e recorrentes.
+Você sabia que em apenas um minuto na internet, há mais de um milhão de visualizações em vídeo, dois milhões de consultas de pesquisa no Google, seis milhões de visualizações no Facebook e 200 milhões de emails enviados? Com tanta coisa acontecendo, é importante garantir que seu conteúdo não se perca com o ruído. Particularmente se você está criando uma campanha durante uma temporada de festas, é ainda mais desafiador receber seus emails na frente de clientes em potencial e recorrentes.
 
 De novembro até o início de janeiro, o volume de emails de marketing enviados aumenta significativamente. Os provedores de caixa de entrada (ISPs) terão muito mais tráfego chegando aos seus servidores do que durante o resto do ano e, como resultado, estarão ainda mais atentos à proteção de seus clientes (seus assinantes).
 
 Estas são quatro estratégias principais para maximizar seu ROI:
 
-### 1. Preparar seu calendário de conteúdo
+### &#x200B;1. Preparar seu calendário de conteúdo
 
 * Os ISPs rastreiam o seu envio médio a partir de um endereço IP, para distribuir o volume o máximo possível e evitar a criação de um sinalizador vermelho e o envio para spam
 * Configure seu calendário de conteúdo com antecedência e prepare seus autores de conteúdo para um aumento no volume de envio
@@ -53,14 +59,14 @@ Estas são quatro estratégias principais para maximizar seu ROI:
    * Planeje estrategicamente por volta dos horários do dia em que as pessoas estão recebendo sobrecarga de email, como das 8h às 10h
    * Se você não conseguir espalhá-lo por dias, tente por horas
 
-### 2. Infraestrutura
+### &#x200B;2. Infraestrutura
 
 * Verifique se a autenticação de email está configurada corretamente fazendo um teste com seu próprio email
 * Familiarize-se com o Manuseio de rejeição e verifique o desempenho em seus ISPs
    * Há possíveis problemas ou blocos com um provedor de serviços específico?
    * Conheça seus problemas antes de começar a enviar grandes volumes para evitar surpresas desagradáveis e um desempenho insatisfatório da campanha
 
-### 3. Dados
+### &#x200B;3. Dados
 
 * Identifique todas as técnicas de aquisição, especialmente seus processos de inscrição e o GDPR.
 * Seja o mais transparente possível com seus assinantes quando você solicitar o endereço de email deles:
@@ -71,7 +77,7 @@ Estas são quatro estratégias principais para maximizar seu ROI:
    * Os emails de boas-vindas ajudam a garantir que os assinantes não sejam deixados de lado pelo novo conteúdo e não cancelem a inscrição ou marquem como spam.
    * Emails de boas-vindas também são um bom indicador de desempenho. Se elas não estiverem sendo entregues ou interagidas com sucesso, você sabe que isso é um sinal de desempenho insatisfatório ou coleta de dados inadequada.
 
-### 4. Gerenciamento de email
+### &#x200B;4. Gerenciamento de email
 
 * Segmente seus assinantes e monitore onde eles estão no ciclo de vida da marca
 * Use estratégias de personalização de conteúdo para melhorar a relevância dos emails
@@ -90,7 +96,7 @@ Infelizmente, a maioria dos assinantes que enfrenta fadiga do email não vai fac
 
 Com isso em mente, veja algumas práticas recomendadas para manter os assinantes envolvidos e antecipar o tipo de conteúdo que desejam receber, a fim de evitar cancelamentos de assinatura e públicos inativos.
 
-### 1. Criar uma estratégia para a frequência de email
+### &#x200B;1. Criar uma estratégia para frequência de email
 
 Infelizmente, não há resposta certa sobre quantos emails devem ser enviados por semana. Para localizar o número correto, considere os seguintes itens:
 
@@ -102,7 +108,7 @@ Infelizmente, não há resposta certa sobre quantos emails devem ser enviados po
 * Qual é a capacidade do seu cliente para receber conteúdo da sua marca?
 * Quais são as preferências sazonais do seu cliente?
 
-### 2. Identifique o status dos assinantes
+### &#x200B;2. Identificar o status dos assinantes
 
 O status dos assinantes (ativo, expirado ou inativo) depende da frequência com que você está enviando o conteúdo. A partir daí, você pode determinar o quanto eles estão envolvidos.
 
@@ -114,7 +120,7 @@ Por exemplo, se você estiver enviando emails para clientes diariamente, eles de
 
 Para usuários obsoletos e inativos, considere consultar a data em que o usuário se inscreveu para ajudar a determinar seu nível de engajamento. Por exemplo, eles se inscreveram na data de uma competição ou outra campanha de marketing? Eles se inscreveram em um pop-up de site com uma oferta de desconto? Depois de identificar os usuários lapsados e inativos, é importante alterar a estratégia para tentar melhorar a satisfação deles e transformá-los de volta em um assinante ativo.
 
-### 3. Implementar estratégias de reengajamento
+### &#x200B;3. Implementar estratégias de reengajamento
 
 Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) o conteúdo criativo dos próprios emails. Veja a seguir cada uma dessas áreas com mais detalhes:
 
@@ -128,7 +134,7 @@ Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) 
 
 * **Regras de Pressão** - Impeça que os assinantes no programa de reengajamento recebam outros emails.
 
-**Criação e conteúdo**
+**Creative e conteúdo**
 
 * **Ofereça uma opção clara de ACEITAÇÃO/RECUSA** - Facilite para que os usuários decidam rapidamente se desejam receber sua opinião. Você pode ser recompensado com a opção de aceitação por atender primeiro às necessidades deles, em vez de se concentrar nas necessidades comerciais de envolvimento.
 
@@ -140,4 +146,4 @@ Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) 
 
 Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=pt-BR).
+Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

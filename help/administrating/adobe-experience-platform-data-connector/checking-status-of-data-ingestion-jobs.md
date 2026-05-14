@@ -1,5 +1,5 @@
 ---
-title: Verificar o status dos trabalhos de assimilação de dados
+title: Verificar o status de um processo de ingestão de dados
 description: Saiba como verificar o status e modificar o mapeamento de dados.
 feature: People Core Service Integration
 audience: administrator
@@ -11,14 +11,18 @@ role: User
 level: Experienced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/YQFOSV3h2uzJz9hIyUgAlGpCJ0oHrRILuD5ySDMbJbk
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: b12f6872-9271-4369-85e5-86969a0b99a2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 30%
+source-wordcount: 144
+ht-degree: 18%
 
 ---
 
-# Verificar o status dos trabalhos de assimilação de dados
+# Verificar o status de um processo de ingestão de dados
 
 >[!NOTE]
 >
@@ -32,6 +36,6 @@ Saiba como verificar o status de um trabalho de assimilação de dados e se os d
 
 ## Recursos adicionais
 
-* [Definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=pt-BR)
-* [Ativação de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=pt-BR)
-* [Acionando a assimilação de dados por meio de APIs](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html?lang=pt-BR)
+* [Definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Ativação de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+* [Acionamento da ingestão de dados por meio de APIs](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)

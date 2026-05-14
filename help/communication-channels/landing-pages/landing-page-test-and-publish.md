@@ -1,5 +1,5 @@
 ---
-title: Testar e publicar uma landing page
+title: Testar e publicar uma página de destino
 description: Saiba como testar uma página de aterrissagem que foi incorporada no Adobe Campaign Standard e como publicá-la.
 feature: Landing Pages
 jira: KT-1813
@@ -10,15 +10,19 @@ team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/3pmhpHUpl0-sARU-LzR5sMDUjRpVzKiXu0QuecM9h1U
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 30%
+source-wordcount: 44
+ht-degree: 27%
 
 ---
 
-# Testar e publicar uma landing page
+# Testar e publicar uma página de destino
 
 Este vídeo explica como testar uma landing page e como publicá-la.
 
->[!VIDEO](https://video.tv.adobe.com/v/33219?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
