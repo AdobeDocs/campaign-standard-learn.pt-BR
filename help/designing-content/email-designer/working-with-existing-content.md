@@ -39,4 +39,4 @@ O Designer de email exige marcação específica, que deve ser aplicada para tor
 
 Você pode encontrar a documentação detalhada no seguinte link:
 
-[Conversão de conteúdo do HTML em um modelo de Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversão de conteúdo do HTML em um modelo de Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=pt-BR)
