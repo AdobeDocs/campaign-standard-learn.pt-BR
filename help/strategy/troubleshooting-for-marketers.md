@@ -10,11 +10,18 @@ jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
 TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 743
@@ -87,7 +94,7 @@ Há duas maneiras de resolver esse erro:
 
 2. Use o método de exclusão JOINS para selecionar o campo com base no qual deseja excluir os registros.
 
-![Erro de Conjunto de Dados de Campo Comum - Solução ](/help/assets/kt-13256/dataset-error-solution.png)
+![Erro de Conjunto de Dados de Campo Comum - Solução &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Erro de descarte de nome de campo
 
@@ -120,7 +127,7 @@ Você pode resolver esse erro de três maneiras:
 **Causa:**
 Esse é um erro comum em workflows complicados envolvendo enriquecimento ou outra atividade. Isso provavelmente significa que alguns dos workflows de atividade não são salvos corretamente durante várias alterações no workflow.
 
-![Tabela Temporária Removida Erro ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Tabela Temporária Removida Erro &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solução:**
 Há muitas maneiras de esse erro ocorrer, portanto, não há uma correção simples. Se for um fluxo de trabalho simples, é melhor reconfigurar a atividade. Em um workflow complicado, é melhor copiar as atividades do workflow para um novo workflow, salvá-lo e executá-lo novamente.
