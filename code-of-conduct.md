@@ -1,52 +1,77 @@
 ---
 source-git-commit: 848a003295e496377c95bb959a846a5a95d44094
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '431'
-ht-degree: 0%
+source-wordcount: '443'
+ht-degree: 18%
 
 ---
 # Código de conduta da Adobe
 
 ## Nosso compromisso
 
-No interesse de promover um ambiente aberto e acolhedor, nós contribuidores e mantenedores nos comprometemos a fazer da participação em nosso projeto e na nossa comunidade uma experiência sem assédio para todos, independentemente da idade, tamanho do corpo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+A fim de promover um ambiente aberto e acolhedor,
+contribuidores e administradores se comprometem a participar de nosso projeto e
+nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, corpo
+dimensão, deficiência, etnia, identidade e expressão de gênero, nível de
+nacionalidade, aparência pessoal, raça, religião ou identidade sexual e
+orientação.
 
 ## Nossos padrões
 
-Exemplos de comportamento que contribuem para criar um ambiente positivo incluem:
+Exemplos de comportamento que contribuem para criar um ambiente positivo
+incluem:
 
 * Uso de idioma acolhedor e inclusivo
 * Respeito pelos diferentes pontos de vista e experiências
-* Aceitando graciosamente críticas construtivas
-* Concentração no que é melhor para a comunidade
-* Mostrando empatia com outros membros da comunidade
+* Aceitação pacífica de críticas construtivas
+* Foco no que é melhor para a comunidade
+* Demonstração de empatia com outros membros da comunidade
 
-Exemplos de comportamento inaceitável por parte dos participantes incluem:
+Estes são alguns exemplos de comportamento inaceitável por parte dos participantes:
 
-* O uso de linguagem ou imagens sexualizadas e a atenção sexual indesejada ou avanços
-* Trolando, insultando/depreciando comentários e ataques pessoais ou políticos
+* O uso de linguagem ou imagens sexualizadas e atenção sexual indesejada
+adiantamentos
+* Brincadeiras de mau gosto, insultos, comentários depreciativos e ataques pessoais ou políticos
 * Assédio público ou privado
-* Publicar informações privadas de outras pessoas, como endereços físicos ou eletrônicos, sem permissão explícita
-* Outros comportamentos que poderiam razoavelmente ser considerados inadequados no contexto profissional
+* Publicação de informações privadas de outras pessoas, como informações físicas ou eletrônicas
+sem permissão explícita
+* Outros comportamentos que poderiam ser considerados inadequados de uma forma
+configuração profissional
 
 ## Nossas responsabilidades
 
-Os responsáveis pela manutenção dos projetos são responsáveis por clarificar as normas de comportamento aceitável e devem tomar medidas corretivas adequadas e equitativas em resposta a quaisquer casos de comportamento inaceitável.
+Os responsáveis pela manutenção dos projetos são responsáveis por esclarecer os padrões de
+e deverão tomar medidas corretivas adequadas e equitativas em matéria de
+resposta a quaisquer ocorrências de comportamento inaceitável.
 
-Os mantenedores de projetos têm o direito e a responsabilidade de remover, editar, rejeitar comentários, comentários, compromissos, código, edições wiki, problemas e outras contribuições que não estejam alinhadas a este Código de Conduta, ou de proibir temporária ou permanentemente qualquer contribuinte por outros comportamentos que considerem inadequados, ameaçadores, ofensivos ou prejudiciais.
+Os administradores do projeto têm o direito e a responsabilidade de remover, editar ou
+rejeitar comentários, confirmações, código, edições da wiki, problemas e outras contribuições
+que não estejam alinhados com o presente Código de Conduta, ou proibir temporariamente
+permanentemente qualquer colaborador para outros comportamentos que considerem inadequados,
+ameaçadora, ofensiva ou prejudicial.
 
 ## Escopo
 
-Este Código de Conduta aplica-se tanto em espaços de projeto como em espaços públicos quando um indivíduo representa o projeto ou sua comunidade. Exemplos de representação de um projeto ou comunidade incluem o uso de um endereço de email oficial do projeto, a postagem por meio de uma conta oficial de mídia social ou a atuação como representante nomeado em um evento online ou offline. A representação de um projeto pode ser definida e clarificada pelos responsáveis pela manutenção do projeto.
+Este Código de conduta se aplica tanto em espaços de projetos quanto em espaços públicos
+quando um indivíduo representa o projeto ou sua comunidade. Exemplos de
+que representam um projeto ou uma comunidade, inclua o uso de um email oficial do projeto
+endereço, publicação através de uma conta oficial de redes sociais ou atuação
+representante em um evento online ou offline. A representação de um projeto
+definidos e esclarecidos pelos responsáveis pela manutenção do projeto.
 
 ## Execução
 
-Instâncias de comportamento abusivo, assédio ou de outra forma inaceitável podem ser relatadas ao entrar em contato com a equipe do projeto em Grp-opensourceoffice@adobe.com. Todas as queixas serão revistas e investigadas e resultarão numa resposta que será considerada necessária e adequada às circunstâncias. A equipe do projeto está obrigada a manter a confidencialidade em relação ao repórter de um incidente.
-Podem ser publicados separadamente mais pormenores sobre as políticas de execução específicas.
+Instâncias de comportamento abusivo, assédio ou de outra forma inaceitável podem ser
+relatado ao entrar em contato com a equipe do projeto em Grp-opensourceoffice@adobe.com. Tudo
+queixas serão analisadas e investigadas e darão origem a uma resposta que
+for considerada necessária e adequada às circunstâncias. A equipe do projeto é
+obrigado a manter a confidencialidade em relação ao relator de um incidente.Podem ser publicados separadamente mais detalhes sobre as políticas de execução específicas.
 
-Os mantenedores de projetos que não seguem ou aplicam o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, determinadas por outros membros da liderança do projeto.
+Os administradores de projeto que não seguem ou aplicam o Código de Conduta em boas condições
+poderá ter repercussões temporárias ou permanentes, conforme determinado por
+membros da liderança do projeto.
 
 ## Atribuição
 
-Este código de conduta é adaptado do Pacto do [Contribuidor](https://contributor-covenant.org), versão 1.4, disponível em [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Este Código de conduta foi adaptado a partir do [Contrato do colaborador](https://contributor-covenant.org), versão 1.4,
+disponível em [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
