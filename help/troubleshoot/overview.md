@@ -11,9 +11,7 @@ source-git-commit: efa9ef72cdcc2f955d35e6ef257781cc02013d03
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
-
 ---
-
 # Solução de problemas do Adobe Campaign - Visão geral
 
 Esta seção foi disponibilizada pelo Suporte ao cliente da Adobe para ajudar a solucionar problemas que você pode encontrar no Adobe Campaign Standard.
