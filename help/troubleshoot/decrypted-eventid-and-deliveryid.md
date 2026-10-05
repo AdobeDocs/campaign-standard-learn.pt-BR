@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Saiba como obter uma ID de evento descriptografada e uma ID de entrega no Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437892?captions=por_br&learn=on){transcript=true}
