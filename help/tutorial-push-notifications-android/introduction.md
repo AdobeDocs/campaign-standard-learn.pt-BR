@@ -8,16 +8,23 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-TQID: https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw
+TQID: 'https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '217'
 ht-degree: 100%
-
 ---
-
 # Introdução às notificações por push com o aplicativo Android™
 
 O Adobe Campaign permite enviar notificações por push personalizadas e segmentadas para dispositivos móveis iOS e Android™.
@@ -27,8 +34,8 @@ Este tutorial percorre as etapas envolvidas no envio de notificações por push 
 ## Pré-requisitos
 
 * Você deve ter a propriedade de lançamento configurada com a Extensão do Adobe Campaign Standard. Siga a ajuda online listada abaixo.
-   * [Tutorial em vídeo](https://video.tv.adobe.com/v/40906?captions=por_br&learn=on){transcript=true}
-   * [Documentação](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=pt-BR)
+  * [Tutorial em vídeo](https://video.tv.adobe.com/v/40906?captions=por_br&learn=on){transcript=true}
+  * [Documentação](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=pt-BR)
 
 * Verifique se o status da propriedade correspondente no Adobe Campaign Standard está definido como configurado.
 * [Tenha uma conta ativa do Google Firebase](https://firebase.google.com)

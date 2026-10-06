@@ -6,29 +6,41 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1497
+source-wordcount: '1497'
 ht-degree: 0%
-
 ---
-
 # ROI do email e práticas recomendadas para reengajamento do assinante
 
 O marketing por email é uma ferramenta valiosa para desenvolver a fidelidade à marca e aumentar as vendas. No entanto, com o vasto número de emails que as pessoas recebem todos os dias, sem mencionar os outros conteúdos digitais que estão consumindo, é importante que seu conteúdo se destaque entre as pessoas. E é importante que ele atenda às necessidades exclusivas do seu público-alvo.
@@ -65,27 +77,27 @@ Estas são quatro estratégias principais para maximizar seu ROI:
 * Os ISPs rastreiam o seu envio médio a partir de um endereço IP, para distribuir o volume o máximo possível e evitar a criação de um sinalizador vermelho e o envio para spam
 * Configure seu calendário de conteúdo com antecedência e prepare seus autores de conteúdo para um aumento no volume de envio
 * Pense em como você agenda seus emails e evita um grande pico no volume de envio. Considere algumas táticas, como:
-   * Não enviando uma explosão ao mesmo tempo, mas sim em alguns dias
-   * Planeje estrategicamente por volta dos horários do dia em que as pessoas estão recebendo sobrecarga de email, como das 8h às 10h
-   * Se você não conseguir espalhá-lo por dias, tente por horas
+  * Não enviando uma explosão ao mesmo tempo, mas sim em alguns dias
+  * Planeje estrategicamente por volta dos horários do dia em que as pessoas estão recebendo sobrecarga de email, como das 8h às 10h
+  * Se você não conseguir espalhá-lo por dias, tente por horas
 
 ### &#x200B;2. Infraestrutura
 
 * Verifique se a autenticação de email está configurada corretamente fazendo um teste com seu próprio email
 * Familiarize-se com o Manuseio de rejeição e verifique o desempenho em seus ISPs
-   * Há possíveis problemas ou blocos com um provedor de serviços específico?
-   * Conheça seus problemas antes de começar a enviar grandes volumes para evitar surpresas desagradáveis e um desempenho insatisfatório da campanha
+  * Há possíveis problemas ou blocos com um provedor de serviços específico?
+  * Conheça seus problemas antes de começar a enviar grandes volumes para evitar surpresas desagradáveis e um desempenho insatisfatório da campanha
 
 ### &#x200B;3. Dados
 
 * Identifique todas as técnicas de aquisição, especialmente seus processos de inscrição e o GDPR.
 * Seja o mais transparente possível com seus assinantes quando você solicitar o endereço de email deles:
-   * Qual conteúdo você enviará (informativo, promoções, eventos)
-   * Quantos emails você enviará (diariamente, semanalmente, mensalmente)
+  * Qual conteúdo você enviará (informativo, promoções, eventos)
+  * Quantos emails você enviará (diariamente, semanalmente, mensalmente)
 
 * Enviar um email de boas-vindas para novos assinantes:
-   * Os emails de boas-vindas ajudam a garantir que os assinantes não sejam deixados de lado pelo novo conteúdo e não cancelem a inscrição ou marquem como spam.
-   * Emails de boas-vindas também são um bom indicador de desempenho. Se elas não estiverem sendo entregues ou interagidas com sucesso, você sabe que isso é um sinal de desempenho insatisfatório ou coleta de dados inadequada.
+  * Os emails de boas-vindas ajudam a garantir que os assinantes não sejam deixados de lado pelo novo conteúdo e não cancelem a inscrição ou marquem como spam.
+  * Emails de boas-vindas também são um bom indicador de desempenho. Se elas não estiverem sendo entregues ou interagidas com sucesso, você sabe que isso é um sinal de desempenho insatisfatório ou coleta de dados inadequada.
 
 ### &#x200B;4. Gerenciamento de email
 
@@ -112,9 +124,9 @@ Infelizmente, não há resposta certa sobre quantos emails devem ser enviados po
 
 * Onde está o ciclo de vida do seu cliente?
 * Eles estão engajados com seus emails?
-   * Email de abandono de cesta vs. informativo
-   * Email de reativação vs. lançamento de venda
-   * Email de abandono de cesta versus lançamento de novo produto
+  * Email de abandono de cesta vs. informativo
+  * Email de reativação vs. lançamento de venda
+  * Email de abandono de cesta versus lançamento de novo produto
 * Qual é a capacidade do seu cliente para receber conteúdo da sua marca?
 * Quais são as preferências sazonais do seu cliente?
 
